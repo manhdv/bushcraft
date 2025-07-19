@@ -1,27 +1,27 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Trang chủ",
       "url": "/"
     },
     {
-      "name": "Blog",
+      "name": "Nhật ký",
       "url": "/blog"
     },
     {
-      "name": "Pricing",
+      "name": "Kỹ năng",
       "url": "/pricing"
     },
     {
-      "name": "Contact",
+      "name": "Đồ dùng",
       "url": "/contact"
     },
     {
-      "name": "FAQ",
+      "name": "Tài nguyên",
       "url": "/faq"
     },
     {
-      "name": "Elements",
+      "name": "Về tôi",
       "url": "/elements"
     }
   ],
